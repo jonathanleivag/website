@@ -1,0 +1,8 @@
+:root {
+  --align-title: center;
+  --box-shadow: 0 0 0.75rem rgba(0, 0, 0, 0.2);
+  --color-bg: #fafafa;
+  --color-primary: #f77062;
+  --color-secondary: #1b998b;
+  --padding-container: 5rem 0;
+}

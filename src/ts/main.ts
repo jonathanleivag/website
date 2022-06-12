@@ -1,0 +1,6 @@
+import 'normalize.css'
+import '@fortawesome/fontawesome-free/css/all.css'
+import '../assets/fonts/Lato/Lato.css'
+import '../css/root.css'
+import '../css/reset.css'
+import '../css/style.css'
